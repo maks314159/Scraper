@@ -1,0 +1,6 @@
+{
+    "BOT_API_TOKEN": "YOUR_BOT_API_TOKEN",
+    "url": "https://tech.onliner.by",
+    "title_class": "news-helpers_hide_mobile-small",
+    "link_class": "news-tidings__link"
+}

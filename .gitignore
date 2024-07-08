@@ -1,3 +1,7 @@
+# Private token file
+config.json
+
+# Base python file .gitignore >>>
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
